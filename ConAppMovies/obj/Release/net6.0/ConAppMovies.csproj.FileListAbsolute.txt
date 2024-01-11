@@ -1,0 +1,14 @@
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\ConAppMovies.exe
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\ConAppMovies.deps.json
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\ConAppMovies.runtimeconfig.json
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\ConAppMovies.dll
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\ConAppMovies.pdb
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.AssemblyInfoInputs.cache
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.AssemblyInfo.cs
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.csproj.CoreCompileInputs.cache
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.dll
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\refint\ConAppMovies.dll
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.pdb
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ConAppMovies.genruntimeconfig.cache
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\obj\Release\net6.0\ref\ConAppMovies.dll

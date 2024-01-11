@@ -1,0 +1,5 @@
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.exe
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.dll
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.deps.json
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.runtimeconfig.json
+D:\Phase4 Assignments\Assignment5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.pdb
